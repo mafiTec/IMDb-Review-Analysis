@@ -1,6 +1,8 @@
 # IMDb-Review-Analysis
-accuracy                           0.88      8250
+accuracy  0.88     
+
 macro avg       0.88      0.88      0.88      8250
+
 weighted avg       0.88      0.88      0.88      8250
 
 
